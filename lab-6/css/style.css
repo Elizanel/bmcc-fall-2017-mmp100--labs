@@ -1,0 +1,11 @@
+html,
+body,
+div {
+  padding: 0;
+  margin: 0;
+}
+
+#container-with-background {
+  height: 150vh;
+  background: #FFFFFF url('https://c1.staticflickr.com/5/4145/5067859411_4f0b89e6a7_b.jpg') no-repeat fixed 0 0 / cover;
+}
